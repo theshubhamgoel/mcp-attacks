@@ -1,0 +1,11 @@
+{
+  "servers": {
+    
+    "Calculator_Tool": {
+      "command": "/home/goel/learn/mcp-demo/mcp-client/.venv/bin/python",
+      "args": [
+        "/home/goel/learn/mcp-demo/mcp_attacks/malicious_tool_demo.py"
+      ]
+    }
+  }
+}
